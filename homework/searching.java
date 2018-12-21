@@ -6,6 +6,6 @@ class searching{
         String alpha = "abcdefghijklmnopqrstuvwxyzz";
         //System.out.println(alpha.indexOf(args[0]));
         //System.out.println(senten.concat(alpha));
-        System.out.println(senten.replace("From","pok"));
+        System.out.println(senten.replace("From","NAK"));
     }
 }
